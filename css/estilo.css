@@ -1,0 +1,53 @@
+body{
+	background-image: url("../img/fondo.jpg");
+	color: blue;
+}
+
+h1{
+	color: red;
+	text-align: center;
+	font-weight: 200;
+
+}
+h2{
+	text-decoration: underline;
+	color:   #111f5f;
+	text-align: left;
+
+}
+p{
+	font-weight: bold;
+	font-size: 20px;
+}
+
+ul{
+	list-style: none;
+
+}
+
+a{
+	text-decoration: none;
+	color: green;
+}
+img{
+	max-width: 100%;
+	vertical-align: middle;
+	display: inline-block;
+}
+
+#image{
+	width: 50%; 
+	float: right; 
+	margin-top: 30px;
+	position: relative;
+}
+#contenido{
+	width: 45%
+	margin-bottom: 20px;
+	margin-top: 30px;
+	float: left;
+	position: fixed;
+	color: #fff;
+	text-align: left;
+
+}
